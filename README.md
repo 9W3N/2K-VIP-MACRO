@@ -4,4 +4,4 @@ Sekarang melalui aplikasi makro ku tidak perlu update manual melainkan akan ada 
 Upgrade di bagian LICENSES KEY supaya tidak ada MULTI-USER dan mencegah MULTI-DEVICE.
 
 UNTUK NOTIFIKASI UPDATE ADA DI SERVER DISCORD 
->>>>> [DISCORD](https://discord.gg/cxVSnFKuqC) <<<<<
+[DISCORD](https://discord.gg/cxVSnFKuqC)
